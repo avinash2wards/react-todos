@@ -6,5 +6,5 @@ React Todos <br>
 
 To Run <br>
 1. Clone
-2. npm install and npm install -g json-server
+2. npm install and/or npm install -g json-server
 3. npm start
