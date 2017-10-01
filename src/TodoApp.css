@@ -1,0 +1,21 @@
+.logo {
+  width: 334px;
+  height: 31px;
+  background: #108ee9;
+  border-radius: 3px;
+  margin-left: 430px;
+  margin-top: 14px;
+  position: relative;
+}
+
+.logo h2 {
+  position: absolute;
+  bottom: -15px;
+  left: 123px;
+  color: whitesmoke;
+}
+
+.error {
+  width: 335px;
+  margin-bottom: 7px;
+}

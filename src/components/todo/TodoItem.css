@@ -1,0 +1,25 @@
+.ant-card-body {
+  padding: 0;
+}
+
+.ant-card-bordered {
+  border: 0;
+}
+
+.ant-card {
+  width: 334px;
+  margin-left: 3px;
+}
+
+.todo-item {
+  width: 100%;
+  text-align: left;
+  padding: 12px;
+}
+
+.delete-todo {
+  float: right;
+  margin-top: 5px;
+  margin-right: 15px;
+  cursor: pointer;
+}

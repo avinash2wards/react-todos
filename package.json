@@ -1,0 +1,22 @@
+{
+  "name": "react_todo",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^2.13.4",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-scripts": "1.0.14"
+  },
+  "scripts": {
+    "start": "concurrently \"npm run startjsonserver\" \"react-scripts start\"",
+    "startjsonserver": "json-server --port 9090  --watch db.json",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "concurrently": "^3.5.0",
+    "json-server": "^0.12.0"
+  }
+}

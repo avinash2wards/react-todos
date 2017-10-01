@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 2,
+      "name": "Shit yourself",
+      "isComplete": true
+    },
+    {
+      "id": 3,
+      "name": "Ain't got time, bruh..",
+      "isComplete": false
+    },
+    {
+      "id": 5,
+      "name": "pay utility",
+      "isComplete": false
+    },
+    {
+      "id": 6,
+      "name": "Test",
+      "isComplete": false
+    }
+  ]
+}
